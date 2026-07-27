@@ -1,0 +1,6 @@
+{
+  "name": "GetGoLive",
+  "description": "Digital Transformation Studio for offline businesses proving it online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
